@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.7.0.QJSMIXM/gauguin_global_images_V12.0.7.0.QJSMIXM_20201224.0000.00_10.0_global_0751deb9ca.tgz
+  ROM_URL: https://bigota.d.miui.com/9.4.2/miui_GRUS_9.4.2_a091a1cd77_9.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
